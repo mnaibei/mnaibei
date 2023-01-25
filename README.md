@@ -2,8 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+<br>
 
-### <div align="left">I'm MNaibei, a junior developer 👨‍💻 from Nairobi, Kenya.</div>  
+### <div align="left">I'm MNaibei, a junior developer 👨‍💻 from Nairobi, Kenya. Find out more about me below(including music I'm currently listening to)😉</div>  
+<br>
 
 # 💫 About Me:
 🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning CSS3, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
