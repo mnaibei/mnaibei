@@ -5,7 +5,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning CSS3, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mnaibei&&style=flat-square)  
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=mnaibei&&style=flat-square)   -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mnaibei&&style=flat-square" align="center" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mucha-julius) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mnaibei_) 
@@ -26,6 +30,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### Current listen: 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314cdzrvshadkt6nkd2fhg7buzeq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
