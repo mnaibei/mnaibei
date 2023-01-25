@@ -21,10 +21,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314cdzrvshadkt6nkd2fhg7buzeq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
