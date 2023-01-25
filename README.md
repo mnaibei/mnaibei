@@ -4,7 +4,7 @@
 
 <br>
 
-### <div align="left">I'm MNaibei, a junior developer 👨‍💻 from Nairobi, Kenya. Find out more about me below(including music I'm currently listening to)😉</div>  
+### <div align="left">I'm MNaibei, a junior developer 👨‍💻 from Nairobi, Kenya.</div>  
 <br>
 
 # 💫 About Me:
