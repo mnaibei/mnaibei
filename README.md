@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning CSS3, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
 
+![Profile views counter](https://komarev.com/ghpvc/?username=mnaibei&&style=flat-square)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mucha-julius) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mnaibei_) 
