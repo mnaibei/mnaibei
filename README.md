@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm MNaibei</h1>
-<h3 align="center">A passionate junior developer from Kenya🇰🇪</h3>
+# 💫 About Me:
+🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning CSS3, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnaibei&label=Profile%20views&color=0e75b6&style=flat" alt="mnaibei" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mnaibei_" target="blank"><img src="https://img.shields.io/twitter/follow/mnaibei_?logo=twitter&style=for-the-badge" alt="mnaibei_" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mucha-julius) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mnaibei_) 
 
-- 🔭 I’m currently working on [iOS countdown timer](https://github.com/mnaibei/countdown_iOS.git)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mnaibei&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mnaibei&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaibei&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **SwiftUI, Python**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mnaibei&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mnaibei](https://github.com/mnaibei)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=mnaibei_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 📫 How to reach me **muchajulius@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mnaibei_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mnaibei_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mucha-julius/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mucha-julius/" height="30" width="40" /></a>
-</p>
+<br/>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314cdzrvshadkt6nkd2fhg7buzeq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnaibei&show_icons=true&locale=en&layout=compact" alt="mnaibei" /></p>
+<br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mnaibei)](https://git.io/streak-stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnaibei&show_icons=true&locale=en" alt="mnaibei" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
