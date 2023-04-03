@@ -7,7 +7,7 @@
 ### <div align="left">I'm MNaibei, a junior developer 👨‍💻 from Nairobi, Kenya.</div>  
 
 # 💫 About Me:
-🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning CSS3, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
+🔭 I’m currently working on Microverse FullStack developer program<br><br>🌱 I’m currently learning JavaScript, React, Ruby on Rails, Postgresql<br><br>⚡ Fun fact: I use tabs over spaces🤫
 
 <!-- ![Profile views counter](https://komarev.com/ghpvc/?username=mnaibei&&style=flat-square)   -->
 
