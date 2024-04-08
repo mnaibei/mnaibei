@@ -1,9 +1,3 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-<br> -->
-
 ### <div align="left">I'm Mucha Naibei, a Software Engineer 👨‍💻 from Nairobi, Kenya.</div>  
 
 # 💫 About Me:
@@ -26,6 +20,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mnaibei&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaibei&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mnaibei&theme=github"/>
+</div>
+
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mnaibei&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
@@ -37,5 +35,3 @@
 
 ### Current listen: 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314cdzrvshadkt6nkd2fhg7buzeq&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
